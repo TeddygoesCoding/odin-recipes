@@ -1,0 +1,44 @@
+* {
+    font-family: Verdana, sans-serif;
+}
+
+main {
+    background-color: aqua;
+    font-size: 45px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.recipes {
+    text-align: center;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.meal {
+    font-size: 35px;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+.mealpic {
+    height: 310px;
+    width: auto;
+}
+
+.description {
+    font-size: 25px;
+    background-color: brown;
+    color: white;
+}
+
+.ingredients {
+    font-size: 20px;
+    color: red;
+}
+
+.steps {
+    font-size: 20px;
+
+}
